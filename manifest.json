@@ -1,6 +1,0 @@
-{
-  "version": "26.2.28",
-  "gameJarUrl": "https://github.com/Arav-Jakhetia/Herecraft-Launcher/releases/download/26.1/Herecraft-26.1.jar",
-  "sha256": "0CC0B6052F63BE3F97230D89349B8838D9975D916DE60B98C5D1489801E4CF0B",
-  "jvmArgs": ["-Xms1G", "-Xmx2G"]
-}
